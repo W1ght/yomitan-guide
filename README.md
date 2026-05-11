@@ -308,7 +308,7 @@
 | 老挝语 | Lao-Lao、Lao-English | MarvNC |
 | 印尼语 | Indonesian-English；wty 支持 Indonesian | MarvNC / wty |
 | 蒙古语 | Japanese-Mongolian 日・モ辞典、有无例句两个版本 | MarvNC |
-| 英语 | Seth-OLAD / OLAD-Extra、kaikki en-en、Apple EN-JA/EN-PT/EN-RU、ejdict | <https://github.com/sNC/yomitan-dictionaries> / wty / MarvNC |
+| 英语 | Seth-OLAD / OLAD-Extra、kaikki en-en、Apple EN-JA/EN-PT/EN-RU、ejdict | <https://github.com/MarvNC/yomitan-dictionaries> / wty / MarvNC |
 
 ---
 
