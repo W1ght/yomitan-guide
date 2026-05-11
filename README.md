@@ -81,16 +81,16 @@
 
 | 词典 | 说明 | 获取 |
 |---|---|---|
-| 小学館例解学習国語 第十二版 | MarvNC 推荐的入门日日词典，例句简单且含注音 | MarvNC 字典目录 |
-| 大辞泉 第二版 | 大型国語，含 pitch / 類語信息的版本常被推荐；与“デジタル大辞泉”区分 | MarvNC 字典目录 |
+| 小学館 例解学習国語辞典 第十二版 | 物书堂官网说明为“もっと引きやすく、楽しく使える最新版！”；MarvNC 也有学習国語旧版 | Monokakido / MarvNC |
+| 大辞泉 | 物书堂官网说明为“30万3千という、類書・アプリを圧倒する項目数”；社区版需区分“大辞泉 第二版”“デジタル大辞泉”及是否含 pitch / 類語 | Monokakido / MarvNC / Shoui |
 | デジタル大辞泉 | 数字大辞泉版本 | MarvNC 字典目录 |
-| 大辞林 第三/四版 | 经典大型国語 | MarvNC / Shoui |
+| 大辞林 第三/四版 | 物书堂官网对第四版说明为“言葉と知への水先案内、令和の国語辞典最新改訂第四版” | Monokakido / MarvNC / Shoui |
 | 広辞苑 第六/七版 | 权威大型国語，含古语等 | MarvNC / Shoui |
-| 三省堂国語辞典 第七/八版 | 轻量实用，适合入门过渡 | MarvNC / Shoui |
-| 新明解国語辞典 第五/七/八版 | 解释风格鲜明，部分版本含声调 | MarvNC / Shoui |
-| 明鏡国語辞典 第二/三版 | 中型国語 | MarvNC / Caoimhe |
-| 旺文社国語辞典 第十一/十二版 | 中型国語，原稿只笼统提到 | MarvNC / Caoimhe |
-| 精選版 日本国語大辞典 | 大型词典删节版；完整版 Nikkoku 多见于 MDX | MarvNC / FreeMdict |
+| 三省堂国語辞典 第七/八版 | 物书堂官网对第八版说明为“時代（いま）を写す辞書。ことばを楽しむ辞書。” | Monokakido / MarvNC / Shoui |
+| 新明解国語辞典 第五/七/八版 | 物书堂官网对第八版说明为“日本で一番売れている国語辞典”；部分社区版本含声调 | Monokakido / MarvNC / Shoui |
+| 明鏡国語辞典 第二/三版 | 物书堂官网对第三版说明为“語彙を豊かに、語感を磨く国語辞典” | Monokakido / MarvNC / Caoimhe |
+| 旺文社国語辞典 第十一/十二版 | 物书堂官网对第十二版说明为“見やすく、引きやすく、わかりやすい。王道の一冊が10年ぶりの全面改訂” | Monokakido / MarvNC / Caoimhe |
+| 精選版 日本国語大辞典 | 物书堂官网说明为“30万項目・約30万用例を収録する大型国語辞典” | Monokakido / MarvNC / FreeMdict |
 | 実用日本語表現辞典 | 网络用语、新词、惯用表达，强烈推荐 | MarvNC |
 | Pixiv / PixivLight | 同人、网络流行语、百科词条；PixivLight 更轻 | <https://github.com/MarvNC/pixiv-yomitan/releases> |
 | niconico-pixiv Terms | niconico / Pixiv 相关词条 | MarvNC |
@@ -100,10 +100,16 @@
 | surasura Onomatopoeia | 拟声/拟态词，含解释与例句 | MarvNC |
 | OnoMangaStrip | 漫画语境的拟声/拟态词资料；原稿遗漏，uchagikun 库中可见 | uchagikun |
 | 擬音語・擬態語辞典 | 拟声/拟态词专项 | MarvNC |
-| 三省堂 全訳読解古語辞典 / 旺文社 全訳古語辞典 / Weblio 古語辞典 | 古语词典 | MarvNC |
+| 旺文社 古語辞典 第十一版 / 三省堂 全訳読解古語辞典 第五版 / 旺文社 全訳古語辞典 第五版 / Weblio 古語辞典 | 物书堂官网分别说明旺文社古语“圧倒的な情報量”、三省堂全訳読解“入試にも授業にも強い”、旺文社全訳“訳の正確さが群を抜く” | Monokakido / MarvNC |
 | 故事ことわざの辞典 / 故事・ことわざ・慣用句オンライン | 谚语、典故、惯用句 | MarvNC / uchagikun |
 | 新明解四字熟語辞典 / 学研四字熟語辞典 / 漢検四字熟語辞典 / 四字熟語データバンク / 四字熟語の百科事典 / 福島みんなの四字熟語・故事成語 | 四字熟语、故事成语 | MarvNC / uchagikun / Discord / FreeMdict |
 | 使い方の分かる 類語例解辞典 | 用法/近义词辨析，MarvNC 推荐给初学者 | MarvNC |
+| 角川類語新辞典 | 物书堂官网说明为“適切なことばを使い分けるための文章宝典” | Monokakido |
+| 日本語シソーラス 類語検索辞典 | 物书堂官网说明为“のべ33万語句を収録した最強の「ことば探し」辞典” | Monokakido |
+| 品格語辞典 / 無礼語辞典 / 絶賛語辞典 | 言いかえ与表达辅助；物书堂官网分别强调改まった場面、不快な言い方、褒め称え表达 | Monokakido |
+| 研究社 日本語コロケーション辞典 | 物书堂官网说明为“日本語の正しいコロケーションが分かる” | Monokakido |
+| 使える！ 用字用語辞典 第2版 | 物书堂官网说明为“マスメディアが使う、スタンダードな日本語。” | Monokakido |
+| 合本俳句歳時記 第五版 | 物书堂官网说明为“最も定評のある角川歳時記、大好評の改訂新版” | Monokakido |
 | Goo Thesaurus / Goo Dialect Dictionary | 类语与方言 | MarvNC |
 | 全国方言辞典 / Weblio大阪弁 | 方言 | MarvNC / Shoui / uchagikun |
 | 新語時事用語辞典 | 新词、时事词 | MarvNC |
@@ -115,10 +121,10 @@
 | 対義語辞典オンライン / 類語辞典オンライン / 数え方辞典オンライン | 反义词、近义词、计数方式 | MarvNC |
 | Jitenon 系列 | 四字熟语、故事/谚语/惯用句、国語在线资料 | <https://yoji.jitenon.jp/> / <https://kotowaza.jitenon.jp/> / <https://kokugo.jitenon.jp/> |
 | 現代国語例解辞典 第五版 | 用例、表格和语境说明丰富 | MarvNC |
-| 現代新国語辞典 第七版 | uchagikun 覆盖补充库中可见 | uchagikun |
-| 漢検漢字辞典 第二版 | 汉字详解，MarvNC 推荐 | MarvNC |
-| 旺文社漢字典 第四版 / 角川新字源 / 漢字源 | 汉字词典 | MarvNC |
-| 有斐閣 法律用語辞典 / 南山堂医学大辞典 / 有斐閣現代心理学辞典 | 法律、医学、心理学专业词典；MarvNC Drive 中可见 | MarvNC Drive |
+| 三省堂 現代新国語辞典 第七版 | 物书堂官网说明为“唯一の高校教科書密着型辞典”；uchagikun 覆盖补充库中可见 | Monokakido / uchagikun |
+| 漢検漢字辞典 第二版 | 物书堂官网说明为“「漢検」全配当漢字を検定級数付きで収録した公式の漢字辞典” | Monokakido / MarvNC |
+| 旺文社漢字典 第四版 / 角川新字源 改訂新版 / 漢字源 | 物书堂官网分别说明旺文社汉字典适合漢文学習、角川新字源为高信用度汉和辞典；漢字源见社区库 | Monokakido / MarvNC |
+| 有斐閣法律学小辞典 / 有斐閣法律用語辞典 / 南山堂医学大辞典 / 有斐閣現代心理学辞典 | 法律、医学、心理学专业词典；物书堂官网称法律学小辞典为“定評ある法律辞典の最高峰”、法律用語辞典为法律术语国語辞典、現代心理学辞典面向学习与实践者 | Monokakido / MarvNC Drive |
 | きっずジャポニカ 新版 | 儿童/百科类资料 | MarvNC / uchagikun |
 | TMW Club v2 / ポケモン図鑑 / 全市区町村辞典 / ウェブ検索_Light | 图片/百科/检索辅助类词典 | MarvNC / uchagikun |
 
@@ -128,7 +134,9 @@
 |---|---|---|
 | DoJG / 日本語文法辞典全集 | 经典日语语法词典。网站 rip 版可能缺图，MDX / Monokakido 来源可能更完整 | MarvNC / FreeMdict |
 | dojg-consolidated-v1_01 | MarvNC starter pack 推荐语法词典 | MarvNC 字典目录 |
-| 日本語文型辞典 | Antimony 制作的 jp-only 文型词典 | <https://github.com/HuangAntimony/Nihongo-Bunkei-Jiten> |
+| 日本語文型辞典 | Antimony 制作的 jp-only 文型词典；物书堂官网“日本語文型辞典（英語版）”说明为“日本語教育のベストセラー辞典” | <https://github.com/HuangAntimony/Nihongo-Bunkei-Jiten> / Monokakido |
+| 日本語文法辞典（基本編）改訂第2版 / 日本語文法辞典（上級編） | 物书堂官网说明为初级文法详解、上级文法深入理解的学习者必备文法书 | Monokakido / Shoui |
+| KANJI IN CONTEXT | 物书堂官网说明为“中・上級日本語学習者のための漢字と語彙” | Monokakido |
 | Handbook of Japanese Grammar | Shoui 语法目录中可见 | Shoui |
 | どんなときどう使う 日本語表現文型辞典 | aiko-tanaka Grammar Dictionaries 中列出 | MarvNC / aiko-tanaka |
 | 毎日のんびり日本語教師 | 语法解释资料 | MarvNC / aiko-tanaka |
@@ -140,7 +148,7 @@
 
 | 词典 | 说明 | 获取 |
 |---|---|---|
-| NHK 2016 | 标准声调词典，MarvNC starter pack 推荐 | MarvNC / Google Drive |
+| NHK 日本語発音アクセント新辞典 / NHK 2016 | 物书堂官网说明为“現代の日本語の発音・アクセントを的確に捉えた必携版”；社区常推荐 NHK 2016 | Monokakido / MarvNC / Google Drive |
 | アクセント辞典 v2 | NHK + 新明解混合数据 | MarvNC |
 | 大辞泉 第二版 / Daijisen Pitch | 大辞泉数据中的声调信息，可用独立 pitch dict 或集成版 | MarvNC |
 | 新明解 第七/八版 Pitch | 新明解声调数据 | MarvNC / Shoui |
@@ -187,6 +195,8 @@
 | JPDB Kanji | 常见词例、分解、汉检级别、旧字体/新字体等 | MarvNC |
 | TheKanjiMap | 部首、分解、包含关系、音符提示；MarvNC README 评价分解比 JPDB 更准确 | MarvNC |
 | Kanji Jitenon Online | 在线汉字资料转换 | MarvNC |
+| 全訳 漢辞海 第五版 | 物书堂官网说明为“高校生から中国研究者まで！の「小さな大漢和」！” | Monokakido |
+| 漢詩創作のための詩語集 | 物书堂官网说明为“漢詩を作りたい人、必携！　詩語集の決定版” | Monokakido |
 | TISMKANJI / TENKANJI | MarvNC / Shoui / uchagikun 库中可见的汉字资料 | MarvNC / Shoui / uchagikun |
 | 漢字林 / kanjiDictCOPE | Shoui / MarvNC Drive 中可见的汉字资料 | Shoui / MarvNC |
 | mozc Kanji Variants | 异体字、旧字体、俗字、正字等 | MarvNC |
@@ -211,7 +221,9 @@
 | Vogelsang's Dictionary | Classical East Asian Languages 社区转换，原稿遗漏 | MarvNC |
 | 中日大辞典 第二版 | ZH-JA | MarvNC |
 | 白水社 中国語辞典 | ZH-JA | MarvNC |
-| 小学館中日辞典 第3版 | ZH-JA，含 pinyin 版本 | MarvNC / Caoimhe |
+| 小学館 中日・日中辞典（第3版） | 物书堂官网说明为“信頼の本格派中日・日中辞典の全面改訂版”；社区库也可见小学館中日辞典第3版 | Monokakido / MarvNC / Caoimhe |
+| 超級クラウン中日・クラウン日中辞典 | 物书堂官网说明为面向学习、商务的中上级中日/日中辞典 | Monokakido |
+| 中日英・日中英 投資・会計・税務用語辞典 | 物书堂官网说明为 KPMG/あずさ監査法人による中日英・日中英会计用语辞典 | Monokakido |
 | 兩岸詞典 | ZH-ZH，两岸用语 | MarvNC |
 | 漢語大詞典 | ZH-ZH 大型汉语词典 | MarvNC |
 | MoeDict 萌典国语辞典 | ZH-ZH | MarvNC |
@@ -263,20 +275,31 @@
 | Conjugation Dictionary | 韩语活用词典 | MarvNC |
 | CC100 Korean | 韩语词频 | MarvNC / Kuuuube |
 | JP-KR / KR-JP | 社区从 FreeMdict 等来源转换 | FreeMdict / Discord |
+| 小学館 韓日・日韓辞典（改訂版） | 物书堂官网说明为“好評を博した『朝鮮語辞典』の改訂新版” | Monokakido |
 
 ---
 
 ## 其他语言
 
-### 物书堂 / Monokakido Proton 库
+### 物书堂 / Monokakido 官网可对应词典
 
-| 层级 | 已确认内容 | 获取 |
-|---|---|---|
-| 顶层 | `MDict`、`Yomitan` 两个目录 | <https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD> |
-| Yomitan | `日本語`、`英語`、`中国語`、`Other` | 同上 |
-| Yomitan / 日本語 | `古語`、`国語`、`漢字`、`和英`、`専門用語`、`Freq` | 同上 |
+这些条目来自物书堂官网“コンテンツ一覧”及各词典详情页的一句话说明（入口：<https://www.monokakido.jp/ja/dictionaries/app/index.html>）；Proton 库是对应数据转换库，能否使用仍以你拥有的合法来源和实际文件为准。这里不再列 raw 文件名，只放能从官网或文件名明确判断类型的词典。
 
-本库来自物书堂/Monokakido 数据转换，和 MarvNC / Shoui 的社区目录不是同一类来源。由于 Proton Drive 深层目录需要逐层加载，本文已确认目录结构，但深层具体文件名应以实际点入为准；常见类型包括日语国語、古語、漢字、和英、专业词典、词频，以及英語/中国語/Other 下的双语或单语词典。
+| 分类 | 词典 | 官网详情页说明 | 获取 |
+|---|---|---|---|
+| 国語 | 精選版 日本国語大辞典 / 大辞林４ / 大辞泉 | 大型国語、第四版大辞林、30万3千项级别大辞泉 | Monokakido Proton / 官网详情 |
+| 国語 | 旺文社国語辞典 第十二版 / 新選国語辞典 第十版 / 岩波 国語辞典 第八版 / 明鏡国語辞典 第三版 | 中学到社会人、百年の日本語、语感与语汇说明等国語用途 | Monokakido Proton / 官网详情 |
+| 国語 | 三省堂 現代新国語辞典 第七版 / 新明解国語辞典 第八版 / 三省堂国語辞典 第八版 / 使える！ 用字用語辞典 第2版 | 高校教科书密着、畅销国語、时代语、媒体用字用语 | Monokakido Proton / 官网详情 |
+| アクセント | NHK 日本語発音アクセント新辞典 | 现代日语发音与声调资料 | Monokakido Proton / 官网详情 |
+| 類語・表現 | 角川類語新辞典 / 日本語シソーラス 類語検索辞典 / 品格語辞典 / 無礼語辞典 / 絶賛語辞典 / 研究社 日本語コロケーション辞典 | 近义词、言いかえ、褒贬表达、搭配关系 | Monokakido Proton / 官网详情 |
+| 古語 | 旺文社 古語辞典 第十一版 / 三省堂 全訳読解古語辞典 第五版 / 旺文社 全訳古語辞典 第五版 | 高校古文、入试与授课、全译古语 | Monokakido Proton / 官网详情 |
+| 漢和・漢字 | 全訳 漢辞海 第五版 / 旺文社漢字典 第四版 / 角川新字源 改訂新版 / 漢検漢字辞典 第二版 / 漢詩創作のための詩語集 | 汉和、漢文学習、漢検、汉诗创作 | Monokakido Proton / 官网详情 |
+| 専門用語 | 有斐閣法律学小辞典 / 有斐閣法律用語辞典 / 有斐閣 現代心理学辞典 | 法律学、法律术语、心理学 | Monokakido Proton / 官网详情 |
+| 日本語学習 | 日本語文型辞典（英語版） / 日本語文法辞典（基本編）改訂第2版 / 日本語文法辞典（上級編） / KANJI IN CONTEXT | 日本語教育、初级/上级语法、中上级汉字与词汇 | Monokakido Proton / 官网详情 |
+| 英語 | ウィズダム / ジーニアス / オーレックス / ライトハウス / 研究社新英和・新和英・リーダーズ等 | 英和・和英、英英、活用、類語、コロケーション | Monokakido Proton / 官网详情 |
+| 中国語 | 小学館 中日・日中辞典（第3版） / 超級クラウン中日・クラウン日中辞典 / 中日英・日中英 投資・会計・税務用語辞典 | 中日・日中、商务学习、投资会计税务 | Monokakido Proton / 官网详情 |
+| 韓国語 | 小学館 韓日・日韓辞典（改訂版） | 韩日・日韩辞典 | Monokakido Proton / 官网详情 |
+| その他 | プログレッシブ タイ語辞典 / 研究社 羅和辞典 / 仏独伊西葡露各辞典 | 泰语、拉丁语、法德意西葡俄等双语辞典 | Monokakido Proton / 官网详情 |
 
 ### Wiktionary / Kaikki 通用词典
 
@@ -394,236 +417,6 @@ kty-ko-en
 ---
 
 
-## 实物库文件名索引
-
-下面这一节直接来自本次抓取到的 Google Drive 文件名清单，目的是补足正文概述可能漏掉的具体 zip 名称。`DEPRECATED`、`DO NOT IMPORT`、明显 broken 的旧文件未列入；同一词典的不同版本/图片版/无图片版会保留。
-
-### MarvNC Drive
-
-- `[JA Freq] Aozora Bunko.zip`
-- `[JA Freq] BCCWJ_SUW_LUW_combined.zip`
-- `[JA Freq] Freq_CC100.zip`
-- `[JA Freq] InnocentRanked.zip`
-- `[JA Freq] jiten_freq_global (2026-05-10).zip`
-- `[JA Freq] JPDB_v2.2_Frequency_Kana_2024-10-13.zip`
-- `[JA Freq] Novels.zip`
-- `[JA Freq] Wikipedia v2.zip`
-- `[JA Freq] YoutubeFreqV3.zip`
-- `[JA-EN Grammar] Bunpro.zip`
-- `[JA-EN Grammar] dojg-consolidated-v1_01.zip`
-- `[JA-EN Grammar] どんなときどう使う 日本語表現文型辞典_1_05.zip`
-- `[JA-EN Onomatopoeia] Onomatoproject.zip`
-- `[JA-EN] Babylon_Japanese_English.v1.0.0.zip`
-- `[JA-EN] jitendex-yomitan (2026-05-05).zip`
-- `[JA-EN] Living_Japanese_Slang_Dictionary_Scripting_Japan.zip`
-- `[JA-EN] NEW 斎藤和英大辞典.zip`
-- `[JA-EN] 新和英.zip`
-- `[JA-JA Antonyms] 対義語辞典オンライン [2024-04-30].zip`
-- `[JA-JA Counters] 数え方辞典オンライン (2024-02-13).zip`
-- `[JA-JA Dialect] 全国方言辞典.zip`
-- `[JA-JA Encyclopedia] JA Wikipedia [2022-12-01] (v1.4.0).zip`
-- `[JA-JA Encyclopedia] PixivLight_2026-05-10.zip`
-- `[JA-JA Encyclopedia] きっずジャポニカ 新版.zip`
-- `[JA-JA Expressions] 故事・ことわざ・慣用句オンライン.zip`
-- `[JA-JA Expressions] 故事ことわざの辞典.zip`
-- `[JA-JA Grammar] [画像付き] 絵でわかる日本語 v3.zip`
-- `[JA-JA Grammar] nihongo_no_sensei_1_04.zip`
-- `[JA-JA Grammar] 日本語NET(nihongo_kyoushi)_v1_03.zip`
-- `[JA-JA Kanji] TISMKANJI[2025-04-24].zip`
-- `[JA-JA Kanji] 旺文社漢字典 第四版[2025-08-18].zip`
-- `[JA-JA Kanji] 漢字林.zip`
-- `[JA-JA Kanji] 角川新字源 改訂新版[2025-04-29].zip`
-- `[JA-JA Kogo] weblio_kogo_expanded_with_conjugation.zip`
-- `[JA-JA Kogo] 三省堂 全訳読解古語辞典[2025-04-29].zip`
-- `[JA-JA Kogo] 旺文社 全訳古語辞典[2025-04-29].zip`
-- `[JA-JA Law] 有斐閣 法律用語辞典[2025-04-22].zip`
-- `[JA-JA Medical] 南山堂医学大辞典 第20版[2025-04-29].zip`
-- `[JA-JA Names] JMnedict (2026-05-09).zip`
-- `[JA-JA Nouns] JA Wikipedia Proper Nouns.zip`
-- `[JA-JA Onomatopoeia] surasura.zip`
-- `[JA-JA Onomatopoeia] 擬音語・擬態語辞典.zip`
-- `[JA-JA Origins] 複合語起源.zip`
-- `[JA-JA Origins] 語源由来辞典.zip`
-- `[JA-JA Psychology] 有斐閣現代心理学辞典[2025-04-29].zip`
-- `[JA-JA Sentences] 用例.jp.zip`
-- `[JA-JA Slang] ネット用語辞典「ネット王子」.zip`
-- `[JA-JA Thesaurus] 使い方の分かる 類語例解辞典 [2024-05-02].zip`
-- `[JA-JA Thesaurus] 類語辞典オンライン (2024-02-09).zip`
-- `[JA Grammar] edewakaru_v_1_03.zip`
-- `TMW Club v2 [2024-05-12].zip`
-- `ポケモン図鑑.zip`
-- `全市区町村辞典 [2024-04-30].zip`
-- `形容詞・動詞のイラスト素材辞典.zip`
-- `素材辞典.zip`
-
-### Shoui Drive
-
-- `[Bilingual ja-ar ياب-عر] 深辞海(日本語アラビア語大辞典).zip`
-- `[Bilingual ja-de] Wadoku 和独大辞典 (JA-DE).zip`
-- `[Bilingual ja-de] Wadoku 和独辞典 (JA-DE).zip`
-- `[Bilingual ja-ru] 研究社露和辞典 (яп-ру).zip`
-- `[Bilingual, onomatopoeia] Onomatoproject.zip`
-- `[Bilingual] Babylon Japanese-English.zip`
-- `[Bilingual] JMdict (Animecards compatible).zip`
-- `[Bilingual] JMdict (Recommended).zip`
-- `[Bilingual] JMdict Plaintext (Fanshi).zip`
-- `[Bilingual] NEW斎藤和英大辞典.zip`
-- `[Bilingual] 新和英.zip`
-- `[Bilingual] 研究社　新和英大辞典　第５版 (Recommended).zip`
-- `[Corpus] Innocent Corpus (Warning: This shows no. of occurences).zip`
-- `[Freq] Anime & J-drama.zip`
-- `[Freq] Aozora Bunko.zip`
-- `[Freq] BCCWJ.zip`
-- `[Freq] CC100.zip`
-- `[Freq] InnocentRanked.zip`
-- `[Freq] Jiten (Anime).zip`
-- `[Freq] JPDB (Recommended).zip`
-- `[Freq] Monodicts 206k.zip`
-- `[Freq] Narou Freq.zip`
-- `[Freq] Netflix.zip`
-- `[Freq] Nier.zip`
-- `[Freq] Novels.zip`
-- `[Freq] TMW Discord Ranks.zip`
-- `[Freq] VN Freq v2.zip`
-- `[Freq] Wikipedia v2.zip`
-- `[Freq] YoutubeFreq.zip`
-- `[Freq] 国語辞典.zip`
-- `[Grammar] Bunpro.zip`
-- `[Grammar] Dictionary of Japanese Grammar 日本語文法辞典 (Recommended).zip`
-- `[Grammar] Handbook of Japanese Grammar.zip`
-- `[Grammar] JLPT文法解説まとめ(nihongo_kyoushi).zip`
-- `[Grammar] Nihongo-Bunkei-Jiten.zip`
-- `[Grammar] どんなとき使う日本語表現文型辞典.zip`
-- `[Grammar] 毎日のんびり日本語教師 (nihongosensei).zip`
-- `[Grammar] 絵でわかる日本語.zip`
-- `[Kanji・Monolingual] 漢字源.zip`
-- `[Kanji] jitai.zip`
-- `[Kanji] JPDB Kanji.zip`
-- `[Kanji] KANJIDIC (English) (Recommended).zip`
-- `[Kanji] kanjiDictCOPE.zip`
-- `[Kanji] mozc Kanji Variants.zip`
-- `[Kanji] TISMKANJI.zip`
-- `[Kanji] Wiktionary.zip`
-- `[Kanji Frequency] Aozora Bunko.zip`
-- `[Kanji Frequency] Innocent Corpus Kanji.zip`
-- `[Kanji Frequency] JPDB Kanji.zip`
-- `[Kanji Frequency] Wikipedia.zip`
-- `[Dialect] 全国方言辞典.zip`
-- `[Differences Thesaurus] 使い方の分かる 類語例解辞典 絵文字無し.zip`
-- `[Differences Thesaurus] 使い方の分かる 類語例解辞典.zip`
-- `[Monolingual Kobun] Weblio古語辞典.zip`
-- `[Monolingual Onomatopoeia] surasura.zip`
-- `[Monolingual, Encyclopedia] Pixiv.zip`
-- `[Monolingual, Encyclopedia] PixivLight.zip`
-- `[Monolingual] デジタル大辞泉 画像なし.zip`
-- `[Monolingual] デジタル大辞泉.zip`
-- `[Monolingual] ハイブリッド新辞林 v2.zip`
-- `[Monolingual] 三省堂国語辞典　第八版 (Recommended).zip`
-- `[Monolingual] 例解学習国語辞典 第十一版 [2024-04-30].zip`
-- `[Monolingual] 四字熟語辞典オンライン.zip`
-- `[Monolingual] 国語辞典オンライン.zip`
-- `[Monolingual] 大辞林　第四版　画像無し.zip`
-- `[Monolingual] 大辞林　第四版.zip`
-- `[Monolingual] 学研 四字熟語辞典.zip`
-- `[Monolingual] 実用日本語表現辞典 (Recommended).zip`
-- `[Monolingual] 実用日本語表現辞典 Extended (Recommended).zip`
-- `[Monolingual] 岩波国語辞典　第八版.zip`
-- `[Monolingual] 広辞苑 第七版.zip`
-- `[Monolingual] 故事・ことわざ・慣用句オンライン.zip`
-- `[Monolingual] 新明解四字熟語辞典.zip`
-- `[Monolingual] 新明解国語辞典 第八版 (Recommended).zip`
-- `[Monolingual] 新語時事用語辞典.zip`
-- `[Monolingual] 新選国語辞典 第十版.zip`
-- `[Monolingual] 日本語俗語辞書.zip`
-- `[Monolingual] 旺文社国語辞典 第十一版 (Recommended).zip`
-- `[Monolingual] 旺文社国語辞典 第十一版 画像無し.zip`
-- `[Monolingual] 明鏡国語辞典 第三版.zip`
-- `[Monolingual] 明鏡国語辞典 第二版 (Recommended Improved).zip`
-- `[Monolingual] 精選版 日本国語大辞典.zip`
-- `Chigai_Dictionary.zip`
-- `Chigai.site.zip`
-- `[Monolingual] 三省堂国語辞典　第七版 (Recommended).zip`
-- `[Monolingual] 大辞林 第三版.zip`
-- `[Monolingual] 岩波国語辞典 第六版.zip`
-- `[Monolingual] 広辞苑 第六版.zip`
-- `[Monolingual] 故事ことわざの辞典.zip`
-- `[Monolingual] 新明解国語辞典 第七版.zip`
-- `[Monolingual] 新明解国語辞典 第五版.zip`
-- `[Monolingual] 明鏡国語辞典 第二版 (Recommended).zip`
-- `[Monolingual] 明鏡国語辞典.zip`
-- `[Names] JMnedict.zip`
-- `[Etymology] 複合語起源.zip`
-- `[Etymology] 語源由来辞典.zip`
-- `[Forms] JMdict Surface Forms (NEW 漢字使い参考).zip`
-- `[JA-ZH] 日汉词典（未完成）.zip`
-- `[KO-EN] KRDICT.zip`
-- `[KO-JA] KRDICT KR-JP.zip`
-- `[KO-JA] NAVER KR-JP.zip`
-- `[KO-KO] KRDICT.zip`
-- `[ZH-EN] CEDICT.zip`
-- `[ZH-JA] 中日大辞典　第二版.zip`
-- `[ZH-JA] 白水社 中国語辞典.zip`
-- `[ZH-ZH] 兩岸詞典.zip`
-- `[ZH-ZH] 漢語大詞典.zip`
-- `[ZH-ZH] 萌典国语辞典 (简体字).zip`
-- `[補足] 漢字遣い参考.zip`
-- `[Pitch] Counters & Suffixes (updatable).zip`
-- `[Pitch] Kanjium 2.zip`
-- `[Pitch] kotu_pitch.zip`
-- `[Pitch] NHK 1998.zip`
-- `[Pitch] NHK 2016 (Recommended).zip`
-- `[Pitch] NHK日本語発音アクセント新辞典.zip`
-- `[Pitch] アクセント辞典v2.zip`
-- `[Pitch] 三省堂第八版.zip`
-- `[Pitch] 大辞林第四版.zip`
-- `[Pitch] 大辞泉 (Recommended).zip`
-- `[Pitch] 新明解第七版.zip`
-- `[Pitch] 新明解第八版.zip`
-- `[Bilingual] JMdict (English) (Recommended).zip`
-- `[Bilingual] JMdict (English) Alternate.zip`
-- `[Encyclopedia] Nico-Pixiv (old, use PixivLite).zip`
-
-### uchagikun Drive
-
-- `[FR-JA] ポケットプログレッシブ仏和・和仏辞典 第3版.zip`
-- `[JA Pictures] TMW Club v2.zip`
-- `[JA Pictures] ウェブ検索_Light.zip`
-- `[JA Pictures] ポケモン図鑑.zip`
-- `[JA Pictures] 全市区町村辞典.zip`
-- `[JA Pictures] 形容詞・動詞図鑑 (Under Construction).zip`
-- `[JA Pictures] 熟語図鑑 (Under Construction).zip`
-- `[JA-JA Dialect] Weblio大阪弁.zip`
-- `[JA-JA Grammar] [画像付き] 絵でわかる日本語.zip`
-- `[JA-JA Kanji] TENKANJI.zip`
-- `[JA-JA Onomatopoeia] OnoMangaStrip.zip`
-- `[JA-JA Sentences] 用例.jp.zip`
-- `[JA-JA Slang] ネット用語辞典「ネット王子」.zip`
-- `[JA-JA Yoji] 四字熟語データバンク.zip`
-- `[JA-JA Yoji] 四字熟語の百科事典_red.zip`
-- `[JA-JA Yoji] 福島みんなの四字熟語・故事成語.zip`
-- `[JA-JA] gimon-sukkiri.jp (v1).zip`
-- `[JA-JA] IMIDASの日本語辞典.zip`
-- `[JA-JA] きっずジャポニカ 新版.zip`
-- `[JA-JA] コトバの意味辞典.zip`
-- `[JA-JA] ことわざ・慣用句の百科事典_red.zip`
-- `[JA-JA] 絵でわかる慣用句_red [2026-02-03].zip`
-- `[JA-JA] 語彙力・熟語の百科事典_red.zip`
-- `[JA-JA] 違い・語源辞典オンライン.zip`
-- `[JA-FR] 和仏辞典オフライン.zip`
-- `[JA-JA Encyclopedia] ja.Wikipedia.2022-12-01.v1.6.1.zip`
-- `[JA-JA Encyclopedia] PixivLight_2026-04-06.zip`
-- `[JA-JA Expressions] ことわざ・慣用句の百科事典.zip`
-- `[JA-JA Expressions] 故事・ことわざ・慣用句オンライン.zip`
-- `[JA-JA Onomatopoeia] 擬音語・擬態語辞典.zip`
-- `[JA-JA Origins] 複合語起源.zip`
-- `[JA-JA Thesaurus] 使い方の分かる 類語例解辞典.zip`
-- `[JA-JA Yoji] 四字熟語の百科事典.zip`
-- `[JA-JA Yoji] 四字熟語辞典オンライン.zip`
-- `[JA-JA] デジタル大辞泉 画像なし.zip`
-- `[JA-JA] 明鏡国語辞典　第二版.zip`
-- `[JA-JA] 現代新国語辞典 第七版.zip`
-- `[JA-JA] 語彙力・熟語の百科事典.zip`
-
 ## 原稿中需要修正的点
 
 | 原说法 | 修正 |
@@ -641,6 +434,6 @@ kty-ko-en
 
 - 标记为 MarvNC / Shoui / Discord / Google Drive / Proton Drive 的资源通常没有单一稳定 zip 链接；请从对应 README 或资源页进入。
 - 本次额外核对了四个实物库：物书堂 Proton 库、MarvNC Google Drive、Shoui Google Drive、uchagikun Google Drive。其中 Google Drive 三个库已用页面数据递归提取到本地清单：`notes/marvnc_drive_items.txt`、`notes/shoui_drive_items.txt`、`notes/uchagikun_drive_items.txt`。
-- Proton 物书堂库已用浏览器确认目录结构；深层文件列表加载较慢，本文只写已确认层级，具体词典以实际目录为准。
+- Proton 物书堂库已对照物书堂官网“コンテンツ一覧”和详情页说明更新；本文只迁入能明确归类的词典，未能可靠判断类型的文件名不写入表格。
 - 商业词典如研究社、LogoVista、Monokakido、Apple Dictionaries、Oxford、Duden、PONS、Priberam 等只应在拥有合法来源时自行转换或使用。
 - 如果只想装一小套，优先保证“基础释义 + 专名 + 语法 + 词频 + 声调 + 汉字信息”六类齐全。
