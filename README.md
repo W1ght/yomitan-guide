@@ -209,20 +209,13 @@
 
 ## 英语
 
-### 社区 / 开放英语词典
-
-| 词典 | 说明 | 获取 |
-|---|---|---|
-| Seth-OLAD / OLAD-Extra | 英英词典，适合轻量查义；OLAD-Extra 为补充版本 | <https://github.com/sNC/yomitan-dictionaries> |
-| Kaikki / Wiktionary English | 英英 Wiktionary 转换，覆盖词形、词源、派生和多义项 | <https://yomidevs.github.io/wiktionary-to-yomitan/download/> |
-| ejdict | 轻量 EN-JA 开源词典 | MarvNC / 社区转换 |
-| Apple EN-JA / EN-PT / EN-RU | Apple Dictionary 来源转换，双语方向按文件名区分 | Proton Drive / Discord / MarvNC |
-| 英语词频 | OpenSubtitles、YouTube、CC100、Leipzig 等英文语料可作为排序和阅读辅助 | MarvNC / Kuuuube / wty |
-
-### 物书堂英和 / 和英
-
 | 词典 | 类型 | 说明 | 获取 |
 |---|---|---|---|
+| Seth-OLAD / OLAD-Extra | 英英 | 轻量英英；OLAD-Extra 为补充版本 | <https://github.com/sNC/yomitan-dictionaries> |
+| Kaikki / Wiktionary English | 英英 | Wiktionary 转换，覆盖词形、词源、派生和多义项 | <https://yomidevs.github.io/wiktionary-to-yomitan/download/> |
+| ejdict | EN-JA | 轻量 EN-JA 开源词典 | MarvNC / 社区转换 |
+| Apple EN-JA / EN-PT / EN-RU | 双语 | Apple Dictionary 来源转换，双语方向按文件名区分 | Proton Drive / Discord / MarvNC |
+| 英语词频 | 词频 | OpenSubtitles、YouTube、CC100、Leipzig 等英文语料，可作为排序和阅读辅助 | MarvNC / Kuuuube / wty |
 | ウィズダム英和・和英辞典（第4版／第3版） | 英和・和英 | 学习型英和・和英，重视语法、语法搭配和自然表达 | Monokakido Proton / 官网详情 |
 | ジーニアス英和・和英辞典（第6版／第3版） | 英和・和英 | 经典学习英和・和英，适合日语母语者系统查英语 | Monokakido Proton / 官网详情 |
 | オーレックス英和・和英辞典（第3版／第2版） | 英和・和英 | 高中到大学入试、写作和发信用学习辞典 | Monokakido Proton / 官网详情 |
@@ -236,11 +229,6 @@
 | 研究社 新和英大辞典 | 和英大辞典 | 大型和英，适合日英翻译和写作 | Monokakido Proton / MarvNC / Shoui |
 | 研究社 リーダーズ英和辞典 + リーダーズ・プラス | 英和 | 阅读向英和，覆盖新闻、文学、专业和固有名词 | Monokakido Proton / 官网详情 |
 | 小学館 ランダムハウス英和大辞典（第2版） | 英和大辞典 | 大型英和，约 32.4 万项 | Monokakido Proton / 官网详情 |
-
-### 物书堂英英 / 用法 / 搭配
-
-| 词典 | 类型 | 说明 | 获取 |
-|---|---|---|---|
 | オックスフォード現代英英辞典（第10版） | 英英 | OALD 学习英英，适合中高级英语学习者 | Monokakido Proton / 官网详情 |
 | オックスフォード現代英英和辞典（第10版） | 英英和 | OALD 加日语译文，适合从英和过渡到英英 | Monokakido Proton / 官网详情 |
 | オックスフォード アカデミック英英辞典 | 学术英英 | 学术英语阅读和写作向英英 | Monokakido Proton / 官网详情 |
