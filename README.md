@@ -209,6 +209,8 @@
 
 ## 英语
 
+注：下表中 “Monokakido 官网详情” 只表示物书堂官网收录该内容；Proton 库是否有对应 Yomitan 转换文件，需要以实际目录为准。
+
 | 词典 | 类型 | 说明 | 获取 |
 |---|---|---|---|
 | Seth-OLAD / OLAD-Extra | 英英 | 轻量英英；OLAD-Extra 为补充版本 | <https://github.com/sNC/yomitan-dictionaries> |
@@ -216,34 +218,34 @@
 | ejdict | EN-JA | 轻量 EN-JA 开源词典 | MarvNC / 社区转换 |
 | Apple EN-JA / EN-PT / EN-RU | 双语 | Apple Dictionary 来源转换，双语方向按文件名区分 | Proton Drive / Discord / MarvNC |
 | 英语词频 | 词频 | OpenSubtitles、YouTube、CC100、Leipzig 等英文语料，可作为排序和阅读辅助 | MarvNC / Kuuuube / wty |
-| ウィズダム英和・和英辞典（第4版／第3版） | 英和・和英 | 学习型英和・和英，重视语法、语法搭配和自然表达 | Monokakido Proton / 官网详情 |
-| ジーニアス英和・和英辞典（第6版／第3版） | 英和・和英 | 经典学习英和・和英，适合日语母语者系统查英语 | Monokakido Proton / 官网详情 |
-| オーレックス英和・和英辞典（第3版／第2版） | 英和・和英 | 高中到大学入试、写作和发信用学习辞典 | Monokakido Proton / 官网详情 |
-| ライトハウス英和辞典（第7版） | 英和 | 学习英和，强调发信、语法和语法搭配 | Monokakido Proton / 官网详情 |
-| コンパスローズ英和辞典 | 英和 | 面向阅读和用法理解的学习英和 | Monokakido Proton / 官网详情 |
-| コンパスローズ和英ライティング辞典 | 和英写作 | 和英写作・表达模板辞典，适合造句和英文写作 | Monokakido Proton / 官网详情 |
-| ベーシックジーニアス英和辞典（第3版） | 英和 | 基础学习英和，适合初中级英语学习者 | Monokakido Proton / 官网详情 |
-| エースクラウン英和辞典（第4版） | 英和 | 面向读、听、说、写的基础学习英和 | Monokakido Proton / 官网详情 |
-| ジーニアス英和大辞典 | 英和大辞典 | 大型英和，适合深入查义、例证和专业词 | Monokakido Proton / 官网详情 |
-| 研究社 新英和大辞典 | 英和大辞典 | 大型英和，语义和用例覆盖广 | Monokakido Proton / 官网详情 |
-| 研究社 新和英大辞典 | 和英大辞典 | 大型和英，适合日英翻译和写作 | Monokakido Proton / MarvNC / Shoui |
-| 研究社 リーダーズ英和辞典 + リーダーズ・プラス | 英和 | 阅读向英和，覆盖新闻、文学、专业和固有名词 | Monokakido Proton / 官网详情 |
-| 小学館 ランダムハウス英和大辞典（第2版） | 英和大辞典 | 大型英和，约 32.4 万项 | Monokakido Proton / 官网详情 |
-| オックスフォード現代英英辞典（第10版） | 英英 | OALD 学习英英，适合中高级英语学习者 | Monokakido Proton / 官网详情 |
-| オックスフォード現代英英和辞典（第10版） | 英英和 | OALD 加日语译文，适合从英和过渡到英英 | Monokakido Proton / 官网详情 |
-| オックスフォード アカデミック英英辞典 | 学术英英 | 学术英语阅读和写作向英英 | Monokakido Proton / 官网详情 |
-| Oxford Learner’s Thesaurus | 英英類語 | 学习者用英英类语，适合辨析近义词 | Monokakido Proton / 官网详情 |
-| Oxford Collocations Dictionary | 英英搭配 | 英语搭配词典，查自然共起和写作搭配 | Monokakido Proton / 官网详情 |
-| Practical English Usage | 英文法・用法 | 英语语法和易错用法参考 | Monokakido Proton / 官网详情 |
-| Collins English Dictionary with Thesaurus 2024 | 英英・類語 | 本格英英加 thesaurus，20 万以上见出 | Monokakido Proton / 官网详情 |
-| コウビルド英英辞典（第10版） | 英英 | COBUILD 上级学习英英，释义句式自然 | Monokakido Proton / 官网详情 |
-| コウビルド英英辞典（米語版 第3版） | 英英 | COBUILD 美语版上级学习英英 | Monokakido Proton / 官网详情 |
-| コウビルド英英和辞典（米語版 2023） | 英英和 | 面向日语使用者的 COBUILD 学习英英 | Monokakido Proton / 官网详情 |
-| コウビルド中級英英辞典（第5版） / 初級英英辞典（第4版） | 英英 | 中级、初级学习英英 | Monokakido Proton / 官网详情 |
-| 研究社 新編英和活用大辞典 | 英语活用・搭配 | 38 万用例，按搭配和句型查自然表达 | Monokakido Proton / 官网详情 |
-| 三省堂 クラウン英語イディオム辞典 / 句動詞辞典 | idiom / phrasal verb | 查英语习语和短语动词 | Monokakido Proton / 官网详情 |
-| 小学館 オックスフォード 英語類語辞典 / 英語コロケーション辞典 | 類語 / 搭配 | 日语说明的 Oxford 英语类语与搭配资料 | Monokakido Proton / 官网详情 |
-| 研究社 英語の数量表現辞典 | 用法・表达 | 数量表达主题辞典，可从日语或主题查英语表达 | Monokakido Proton / 官网详情 |
+| ウィズダム英和・和英辞典（第4版／第3版） | 英和・和英 | 学习型英和・和英，重视语法、语法搭配和自然表达 | Monokakido 官网详情 |
+| ジーニアス英和・和英辞典（第6版／第3版） | 英和・和英 | 经典学习英和・和英，适合日语母语者系统查英语 | Monokakido 官网详情 |
+| オーレックス英和・和英辞典（第3版／第2版） | 英和・和英 | 高中到大学入试、写作和发信用学习辞典 | Monokakido 官网详情 |
+| ライトハウス英和辞典（第7版） | 英和 | 学习英和，强调发信、语法和语法搭配 | Monokakido 官网详情 |
+| コンパスローズ英和辞典 | 英和 | 面向阅读和用法理解的学习英和 | Monokakido 官网详情 |
+| コンパスローズ和英ライティング辞典 | 和英写作 | 和英写作・表达模板辞典，适合造句和英文写作 | Monokakido 官网详情 |
+| ベーシックジーニアス英和辞典（第3版） | 英和 | 基础学习英和，适合初中级英语学习者 | Monokakido 官网详情 |
+| エースクラウン英和辞典（第4版） | 英和 | 面向读、听、说、写的基础学习英和 | Monokakido 官网详情 |
+| ジーニアス英和大辞典 | 英和大辞典 | 大型英和，适合深入查义、例证和专业词 | Monokakido 官网详情 |
+| 研究社 新英和大辞典 | 英和大辞典 | 大型英和，语义和用例覆盖广 | Monokakido 官网详情 |
+| 研究社 新和英大辞典 | 和英大辞典 | 大型和英，适合日英翻译和写作 | Monokakido 官网详情 / MarvNC / Shoui |
+| 研究社 リーダーズ英和辞典 + リーダーズ・プラス | 英和 | 阅读向英和，覆盖新闻、文学、专业和固有名词 | Monokakido 官网详情 |
+| 小学館 ランダムハウス英和大辞典（第2版） | 英和大辞典 | 大型英和，约 32.4 万项 | Monokakido 官网详情 |
+| オックスフォード現代英英辞典（第10版） | 英英 | OALD 学习英英，适合中高级英语学习者 | Monokakido 官网详情 |
+| オックスフォード現代英英和辞典（第10版） | 英英和 | OALD 加日语译文，适合从英和过渡到英英 | Monokakido 官网详情 |
+| オックスフォード アカデミック英英辞典 | 学术英英 | 学术英语阅读和写作向英英 | Monokakido 官网详情 |
+| Oxford Learner’s Thesaurus | 英英類語 | 学习者用英英类语，适合辨析近义词 | Monokakido 官网详情 |
+| Oxford Collocations Dictionary | 英英搭配 | 英语搭配词典，查自然共起和写作搭配 | Monokakido 官网详情 |
+| Practical English Usage | 英文法・用法 | 英语语法和易错用法参考 | Monokakido 官网详情 |
+| Collins English Dictionary with Thesaurus 2024 | 英英・類語 | 本格英英加 thesaurus，20 万以上见出 | Monokakido 官网详情 |
+| コウビルド英英辞典（第10版） | 英英 | COBUILD 上级学习英英，释义句式自然 | Monokakido 官网详情 |
+| コウビルド英英辞典（米語版 第3版） | 英英 | COBUILD 美语版上级学习英英 | Monokakido 官网详情 |
+| コウビルド英英和辞典（米語版 2023） | 英英和 | 面向日语使用者的 COBUILD 学习英英 | Monokakido 官网详情 |
+| コウビルド中級英英辞典（第5版） / 初級英英辞典（第4版） | 英英 | 中级、初级学习英英 | Monokakido 官网详情 |
+| 研究社 新編英和活用大辞典 | 英语活用・搭配 | 38 万用例，按搭配和句型查自然表达 | Monokakido 官网详情 |
+| 三省堂 クラウン英語イディオム辞典 / 句動詞辞典 | idiom / phrasal verb | 查英语习语和短语动词 | Monokakido 官网详情 |
+| 小学館 オックスフォード 英語類語辞典 / 英語コロケーション辞典 | 類語 / 搭配 | 日语说明的 Oxford 英语类语与搭配资料 | Monokakido 官网详情 |
+| 研究社 英語の数量表現辞典 | 用法・表达 | 数量表达主题辞典，可从日语或主题查英语表达 | Monokakido 官网详情 |
 
 ---
 
@@ -338,7 +340,7 @@
 | 漢和・漢字 | 全訳 漢辞海 第五版 / 旺文社漢字典 第四版 / 角川新字源 改訂新版 / 漢検漢字辞典 第二版 / 漢詩創作のための詩語集 | 汉和、漢文学習、漢検、汉诗创作 | Monokakido Proton / 官网详情 |
 | 専門用語 | 有斐閣法律学小辞典 / 有斐閣法律用語辞典 / 有斐閣 現代心理学辞典 | 法律学、法律术语、心理学 | Monokakido Proton / 官网详情 |
 | 日本語学習 | 日本語文型辞典（英語版） / 日本語文法辞典（基本編）改訂第2版 / 日本語文法辞典（上級編） / KANJI IN CONTEXT | 日本語教育、初级/上级语法、中上级汉字与词汇 | Monokakido Proton / 官网详情 |
-| 英語 | ウィズダム / ジーニアス / オーレックス / Oxford / Collins / COBUILD / 研究社等 | 英和・和英、英英、活用、類語、コロケーション；详见上方“英语”专栏 | Monokakido Proton / 官网详情 |
+| 英語 | ウィズダム / ジーニアス / オーレックス / Oxford / Collins / COBUILD / 研究社等 | 英和・和英、英英、活用、類語、コロケーション；详见上方“英语”专栏 | Monokakido 官网详情；Proton 待逐项核对 |
 | 中国語 | 小学館 中日・日中辞典（第3版） / 超級クラウン中日・クラウン日中辞典 / 中日英・日中英 投資・会計・税務用語辞典 | 中日・日中、商务学习、投资会计税务 | Monokakido Proton / 官网详情 |
 | 韓国語 | 小学館 韓日・日韓辞典（改訂版） | 韩日・日韩辞典 | Monokakido Proton / 官网详情 |
 | その他 | プログレッシブ タイ語辞典 / 研究社 羅和辞典 / 仏独伊西葡露各辞典 | 泰语、拉丁语、法德意西葡俄等双语辞典 | Monokakido Proton / 官网详情 |
