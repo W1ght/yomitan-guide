@@ -8,7 +8,7 @@
 
 | 资源 | 用途 | 链接 |
 |---|---|---|
-| MarvNC Yomitan Dictionaries | 最重要的综合目录，CJK、日语、中文、粤语、其他语言、工具与推荐组合 | <https://github.com/MarvNC/yomitan-dictionaries> |
+| MarvNC Yomitan Dictionaries | 最重要的综合目录，日语、英语、韩语、其他语言、工具与推荐组合 | <https://github.com/MarvNC/yomitan-dictionaries> |
 | MarvNC 字典 Google Drive | MarvNC 当前日语词典实物目录 | <https://drive.google.com/drive/folders/1xURpMJN7HTtSLuVs9ZtIbE7MDRCdoU29> |
 | Shoui 词典库 | MarvNC 推荐的旧版、替代版和社区词典入口 | <https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH> |
 | uchagikun 词典库 | 图片词典、百科/表现类、覆盖补充词典 | <https://drive.google.com/drive/folders/1CPPAgKzz_PDEb7JUPHGioONTEQg0aCHW> |
@@ -227,63 +227,6 @@
 
 ---
 
-## 中文 / 粤语 / 汉字
-
-### 普通话与文言
-
-| 词典 | 说明 | 获取 |
-|---|---|---|
-| CC-CEDICT | ZH-EN 基础词典 | <https://github.com/MarvNC/cc-cedict-yomitan> |
-| Oxford 牛津英汉汉英词典 | ZH-EN，含例句 | MarvNC |
-| DrEye 譯典通英漢雙向字典 | 台湾来源中英双向词典 | MarvNC |
-| 500idioms | 五百个中文成语 | MarvNC |
-| Wenlin ABC Chinese-English Comprehensive Dictionary | 重要 ZH-EN 词典 | MarvNC |
-| Tuttle Learner's Chinese-English Dictionary | 从 Pleco 转换 | MarvNC |
-| Kroll's Student's Dictionary of Classical and Medieval Chinese | 文言/中古汉语英释 | MarvNC |
-| Vogelsang's Dictionary | Classical East Asian Languages 社区转换 | MarvNC |
-| 中日大辞典 第二版 | ZH-JA | MarvNC |
-| 白水社 中国語辞典 | ZH-JA | MarvNC |
-| 小学館 中日・日中辞典（第3版） | 本格中日・日中辞典；社区库也可见小学館中日辞典第3版 | Monokakido / MarvNC / Caoimhe |
-| 超級クラウン中日・クラウン日中辞典 | 中上级中日・日中辞典，兼顾学习和商务 | Monokakido |
-| 中日英・日中英 投資・会計・税務用語辞典 | 投资、会计、税务三语术语辞典 | Monokakido |
-| 兩岸詞典 | ZH-ZH，两岸用语 | MarvNC |
-| 漢語大詞典 | ZH-ZH 大型汉语词典 | MarvNC |
-| MoeDict 萌典国语辞典 | ZH-ZH | MarvNC |
-| 现代汉语词典 第七版 | ZH-ZH | MarvNC |
-| 现代汉语规范词典 第三版 | ZH-ZH | MarvNC |
-| 五南国语活用辞典 | ZH-ZH | MarvNC |
-| 國語辭典簡編本 | ZH-ZH | MarvNC |
-| zdic | 大型汉字/汉语资料，体积大 | MarvNC |
-| ZH Wikipedia | 中文维基百科词条 | MarvNC |
-| BKRS ZH-RU | 中文到俄语 | <https://github.com/etsune/bkrs2yomi> |
-
-### 汉字 / 音韵 / 频率
-
-| 词典 | 说明 | 获取 |
-|---|---|---|
-| Wiktionary Hanzi | 汉字资料 | MarvNC |
-| MCPDict 漢字古今中外讀音查詢 | 中古音、普通话、吴闽粤、越韩日读音等 | <https://github.com/Omnisch/mcpdict_for_yomitan> |
-| 廣韻 | 韵书资料 | MarvNC |
-| EDHCC | 汉字资料 | MarvNC |
-| 古汉语常用字字典 | 文言汉字 | MarvNC |
-| BLCU BCC Corpus | 中文词频 | MarvNC |
-| SUBTLEX-CH | 中文字幕语料词频 | MarvNC |
-| HSK Levels List | HSK 词表/频率 | MarvNC |
-| Sinica | 中文语料词频 | MarvNC |
-| Classical Chinese Frequency Dictionary | 文言词频 | MarvNC |
-
-### 粤语
-
-| 词典 | 说明 | 获取 |
-|---|---|---|
-| Words.hk / wordshk | 粤语词典 | <https://github.com/MarvNC/wordshk-yomitan> |
-| CantoDict | 粤语词典 | MarvNC |
-| Canto CEDICT / CC-Canto / CE Wiktionary | 粤语/中英相关资料 | MarvNC |
-| Words.hk Frequency | 粤语词频 | MarvNC |
-| Cifu | 粤语词频/语料，含口语与网络小说书面数据 | MarvNC |
-
----
-
 ## 韩语
 
 | 词典 | 说明 | 获取 |
@@ -319,7 +262,6 @@
 | 専門用語 | 有斐閣法律学小辞典 / 有斐閣法律用語辞典 / 有斐閣 現代心理学辞典 | 法律学、法律术语、心理学 | Monokakido 官网详情 |
 | 日本語学習 | 日本語文型辞典（英語版） / 日本語文法辞典（基本編）改訂第2版 / 日本語文法辞典（上級編） / KANJI IN CONTEXT | 日本語教育、初级/上级语法、中上级汉字与词汇 | Monokakido 官网详情 |
 | 英語 | 研究社 新英和大辞典 第6版 / オックスフォード英語類語辞典 / ライトハウス英和辞典 第7版 | 英和、類語等；详见上方“英语”专栏 | Monokakido 官网详情 / Proton |
-| 中国語 | 小学館 中日・日中辞典（第3版） / 超級クラウン中日・クラウン日中辞典 / 中日英・日中英 投資・会計・税務用語辞典 | 中日・日中、商务学习、投资会计税务 | Monokakido 官网详情 |
 | 韓国語 | 小学館 韓日・日韓辞典（改訂版） | 韩日・日韩辞典 | Monokakido 官网详情 |
 | その他 | プログレッシブ タイ語辞典 / 研究社 羅和辞典 / 仏独伊西葡露各辞典 | 泰语、拉丁语、法德意西葡俄等双语辞典 | Monokakido 官网详情 |
 
@@ -336,7 +278,7 @@
 | 法语 | kty-fr-en、fr-fr、ポケットプログレッシブ仏和・和仏辞典 第3版、和仏辞典オフライン、JP-FR Kotobank/FreeMdict 转换 | wty / MarvNC / uchagikun / FreeMdict |
 | 葡萄牙语 | kty-pt-en、Priberam、Vicon、OpenSubs PT Freq、現代日葡辞典、プログレッシブ ポルトガル語辞典 | wty / MarvNC / FreeMdict |
 | 意大利语 | kty-it、JP-IT Kotobank 转换 | wty / Discord |
-| 俄语 | OpenRussian、研究社露和辞典、kty-en-ru、kty-ru-ru、Apple EN-RU、JMdict Russian、BKRS ZH-RU | MarvNC / Shoui / wty / jmdict-yomitan |
+| 俄语 | OpenRussian、研究社露和辞典、kty-en-ru、kty-ru-ru、Apple EN-RU、JMdict Russian | MarvNC / Shoui / wty / jmdict-yomitan |
 | 瑞典语 | kty-sv-en、JMdict Swedish | wty / jmdict-yomitan |
 | 荷兰语 | kty-nl、JMdict Dutch | wty / jmdict-yomitan |
 | 芬兰语 | wty 支持 Finnish 作为源语言 | wty |
@@ -392,21 +334,6 @@ Jitendex
 + NHK 2016
 + JPDB v2.2 + Jiten + CC100 + BCCWJ
 + KANJIDIC + TheKanjiMap + JPDB Kanji
-```
-
-### 中文
-
-```text
-CC-CEDICT
-+ Oxford 牛津英汉汉英
-+ Wenlin ABC
-+ 现代汉语词典 / 现代汉语规范词典
-+ 萌典
-+ 兩岸詞典
-+ zdic
-+ MCPDict
-+ SUBTLEX-CH / BLCU BCC
-+ Words.hk（如学粤语）
 ```
 
 ### 韩语
