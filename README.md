@@ -81,16 +81,18 @@
 
 | 词典 | 说明 | 获取 |
 |---|---|---|
-| 小学館 例解学習国語辞典 第十二版 | 物书堂官网说明为“もっと引きやすく、楽しく使える最新版！”；MarvNC 也有学習国語旧版 | Monokakido / MarvNC |
-| 大辞泉 | 物书堂官网说明为“30万3千という、類書・アプリを圧倒する項目数”；社区版需区分“大辞泉 第二版”“デジタル大辞泉”及是否含 pitch / 類語 | Monokakido / MarvNC / Shoui |
-| デジタル大辞泉 | 数字大辞泉版本 | MarvNC 字典目录 |
-| 大辞林 第三/四版 | 物书堂官网对第四版说明为“言葉と知への水先案内、令和の国語辞典最新改訂第四版” | Monokakido / MarvNC / Shoui |
-| 広辞苑 第六/七版 | 权威大型国語，含古语等 | MarvNC / Shoui |
-| 三省堂国語辞典 第七/八版 | 物书堂官网对第八版说明为“時代（いま）を写す辞書。ことばを楽しむ辞書。” | Monokakido / MarvNC / Shoui |
-| 新明解国語辞典 第五/七/八版 | 物书堂官网对第八版说明为“日本で一番売れている国語辞典”；部分社区版本含声调 | Monokakido / MarvNC / Shoui |
-| 明鏡国語辞典 第二/三版 | 物书堂官网对第三版说明为“語彙を豊かに、語感を磨く国語辞典” | Monokakido / MarvNC / Caoimhe |
-| 旺文社国語辞典 第十一/十二版 | 物书堂官网对第十二版说明为“見やすく、引きやすく、わかりやすい。王道の一冊が10年ぶりの全面改訂” | Monokakido / MarvNC / Caoimhe |
-| 精選版 日本国語大辞典 | 物书堂官网说明为“30万項目・約30万用例を収録する大型国語辞典” | Monokakido / MarvNC / FreeMdict |
+| 小学館 例解学習国語辞典 第十二版 | 小学生・初学者向けの学習国語辞典；MarvNC 也有学習国語旧版 | Monokakido / MarvNC |
+| 大辞泉 | 中型国語辞典。物书堂版约 30.3 万项，另含大辞泉プラス与アクセント音声；社区版需区分第二版、デジタル大辞泉及是否含 pitch / 類語 | Monokakido / MarvNC / Shoui |
+| デジタル大辞泉 | 小学館大辞泉的数字版国語辞典；与物书堂“大辞泉”及社区“大辞泉 第二版”转换版需区分 | MarvNC 字典目录 |
+| 大辞林 第三/四版 | 中型国語辞典。第四版书籍约 25.1 万项，物书堂“大辞林 4.0”约 26.96 万项 | Monokakido / MarvNC / Shoui |
+| 広辞苑 第六/七版 | 中型国語辞典。百科项与古语覆盖强，适合查现代语、古典语和百科性词条 | MarvNC / Shoui |
+| 新選国語辞典 第十版 | 小型国語辞典。面向中学生到社会人，适合基础查词和学习过渡 | Monokakido / Shoui |
+| 岩波 国語辞典 第八版 | 小型国語辞典。重视现代日语的规范性和语义说明 | Monokakido / Shoui |
+| 三省堂国語辞典 第七/八版 | 小型国語辞典。第八版约 8.4 万项，新语、现代用法和アクセント标示较强 | Monokakido / MarvNC / Shoui |
+| 新明解国語辞典 第五/七/八版 | 小型国語辞典。第八版约 7.9 万项，语释风格鲜明，全部见出带アクセント；部分社区版本含声调 | Monokakido / MarvNC / Shoui |
+| 明鏡国語辞典 第二/三版 | 小型国語辞典。第三版约 7.3 万项，重视误用、用法、语感和言い換え | Monokakido / MarvNC / Caoimhe |
+| 旺文社国語辞典 第十一/十二版 | 小型国語辞典。第十二版约 8.5 万项，用例、汉字项、古语・和歌・俳句等学习资料较充实 | Monokakido / MarvNC / Caoimhe |
+| 精選版 日本国語大辞典 | 大型国語辞典。约 30 万项、约 30 万用例，重视文献实例和语史 | Monokakido / MarvNC / FreeMdict |
 | 実用日本語表現辞典 | 网络用语、新词、惯用表达，强烈推荐 | MarvNC |
 | Pixiv / PixivLight | 同人、网络流行语、百科词条；PixivLight 更轻 | <https://github.com/MarvNC/pixiv-yomitan/releases> |
 | niconico-pixiv Terms | niconico / Pixiv 相关词条 | MarvNC |
@@ -100,16 +102,16 @@
 | surasura Onomatopoeia | 拟声/拟态词，含解释与例句 | MarvNC |
 | OnoMangaStrip | 漫画语境的拟声/拟态词资料；原稿遗漏，uchagikun 库中可见 | uchagikun |
 | 擬音語・擬態語辞典 | 拟声/拟态词专项 | MarvNC |
-| 旺文社 古語辞典 第十一版 / 三省堂 全訳読解古語辞典 第五版 / 旺文社 全訳古語辞典 第五版 / Weblio 古語辞典 | 物书堂官网分别说明旺文社古语“圧倒的な情報量”、三省堂全訳読解“入試にも授業にも強い”、旺文社全訳“訳の正確さが群を抜く” | Monokakido / MarvNC |
+| 旺文社 古語辞典 第十一版 / 三省堂 全訳読解古語辞典 第五版 / 旺文社 全訳古語辞典 第五版 / Weblio 古語辞典 | 古語辞典。高校古文、入试、授课和全译读解用途 | Monokakido / MarvNC |
 | 故事ことわざの辞典 / 故事・ことわざ・慣用句オンライン | 谚语、典故、惯用句 | MarvNC / uchagikun |
 | 新明解四字熟語辞典 / 学研四字熟語辞典 / 漢検四字熟語辞典 / 四字熟語データバンク / 四字熟語の百科事典 / 福島みんなの四字熟語・故事成語 | 四字熟语、故事成语 | MarvNC / uchagikun / Discord / FreeMdict |
 | 使い方の分かる 類語例解辞典 | 用法/近义词辨析，MarvNC 推荐给初学者 | MarvNC |
-| 角川類語新辞典 | 物书堂官网说明为“適切なことばを使い分けるための文章宝典” | Monokakido |
-| 日本語シソーラス 類語検索辞典 | 物书堂官网说明为“のべ33万語句を収録した最強の「ことば探し」辞典” | Monokakido |
-| 品格語辞典 / 無礼語辞典 / 絶賛語辞典 | 言いかえ与表达辅助；物书堂官网分别强调改まった場面、不快な言い方、褒め称え表达 | Monokakido |
-| 研究社 日本語コロケーション辞典 | 物书堂官网说明为“日本語の正しいコロケーションが分かる” | Monokakido |
-| 使える！ 用字用語辞典 第2版 | 物书堂官网说明为“マスメディアが使う、スタンダードな日本語。” | Monokakido |
-| 合本俳句歳時記 第五版 | 物书堂官网说明为“最も定評のある角川歳時記、大好評の改訂新版” | Monokakido |
+| 角川類語新辞典 | 類語辞典。用于近义词辨析和文章表达 | Monokakido |
+| 日本語シソーラス 類語検索辞典 | 類語検索辞典。约 33 万语句，适合“找词” | Monokakido |
+| 品格語辞典 / 無礼語辞典 / 絶賛語辞典 | 言いかえ与表达辅助；分别面向得体表达、失礼表达提醒和赞美表达 | Monokakido |
+| 研究社 日本語コロケーション辞典 | 日语搭配词典，查自然共起和惯用组合 | Monokakido |
+| 使える！ 用字用語辞典 第2版 | 用字用语词典，面向媒体写作和标准表记 | Monokakido |
+| 合本俳句歳時記 第五版 | 俳句歳時記，查季语和例句 | Monokakido |
 | Goo Thesaurus / Goo Dialect Dictionary | 类语与方言 | MarvNC |
 | 全国方言辞典 / Weblio大阪弁 | 方言 | MarvNC / Shoui / uchagikun |
 | 新語時事用語辞典 | 新词、时事词 | MarvNC |
@@ -121,10 +123,10 @@
 | 対義語辞典オンライン / 類語辞典オンライン / 数え方辞典オンライン | 反义词、近义词、计数方式 | MarvNC |
 | Jitenon 系列 | 四字熟语、故事/谚语/惯用句、国語在线资料 | <https://yoji.jitenon.jp/> / <https://kotowaza.jitenon.jp/> / <https://kokugo.jitenon.jp/> |
 | 現代国語例解辞典 第五版 | 用例、表格和语境说明丰富 | MarvNC |
-| 三省堂 現代新国語辞典 第七版 | 物书堂官网说明为“唯一の高校教科書密着型辞典”；uchagikun 覆盖补充库中可见 | Monokakido / uchagikun |
-| 漢検漢字辞典 第二版 | 物书堂官网说明为“「漢検」全配当漢字を検定級数付きで収録した公式の漢字辞典” | Monokakido / MarvNC |
-| 旺文社漢字典 第四版 / 角川新字源 改訂新版 / 漢字源 | 物书堂官网分别说明旺文社汉字典适合漢文学習、角川新字源为高信用度汉和辞典；漢字源见社区库 | Monokakido / MarvNC |
-| 有斐閣法律学小辞典 / 有斐閣法律用語辞典 / 南山堂医学大辞典 / 有斐閣現代心理学辞典 | 法律、医学、心理学专业词典；物书堂官网称法律学小辞典为“定評ある法律辞典の最高峰”、法律用語辞典为法律术语国語辞典、現代心理学辞典面向学习与实践者 | Monokakido / MarvNC Drive |
+| 三省堂 現代新国語辞典 第七版 | 小型国語辞典。高校教科书密着型，适合高中学习场景；uchagikun 覆盖补充库中可见 | Monokakido / uchagikun |
+| 漢検漢字辞典 第二版 | 汉检官方汉字辞典，带检定级数 | Monokakido / MarvNC |
+| 旺文社漢字典 第四版 / 角川新字源 改訂新版 / 漢字源 | 汉和・汉字词典。旺文社偏漢文学習，角川新字源偏权威汉和；漢字源见社区库 | Monokakido / MarvNC |
+| 有斐閣法律学小辞典 / 有斐閣法律用語辞典 / 南山堂医学大辞典 / 有斐閣現代心理学辞典 | 法律、医学、心理学专业词典 | Monokakido / MarvNC Drive |
 | きっずジャポニカ 新版 | 儿童/百科类资料 | MarvNC / uchagikun |
 | TMW Club v2 / ポケモン図鑑 / 全市区町村辞典 / ウェブ検索_Light | 图片/百科/检索辅助类词典 | MarvNC / uchagikun |
 
@@ -134,9 +136,9 @@
 |---|---|---|
 | DoJG / 日本語文法辞典全集 | 经典日语语法词典。网站 rip 版可能缺图，MDX / Monokakido 来源可能更完整 | MarvNC / FreeMdict |
 | dojg-consolidated-v1_01 | MarvNC starter pack 推荐语法词典 | MarvNC 字典目录 |
-| 日本語文型辞典 | Antimony 制作的 jp-only 文型词典；物书堂官网“日本語文型辞典（英語版）”说明为“日本語教育のベストセラー辞典” | <https://github.com/HuangAntimony/Nihongo-Bunkei-Jiten> / Monokakido |
-| 日本語文法辞典（基本編）改訂第2版 / 日本語文法辞典（上級編） | 物书堂官网说明为初级文法详解、上级文法深入理解的学习者必备文法书 | Monokakido / Shoui |
-| KANJI IN CONTEXT | 物书堂官网说明为“中・上級日本語学習者のための漢字と語彙” | Monokakido |
+| 日本語文型辞典 | Antimony 制作的 jp-only 文型词典；日本語文型辞典（英語版）は日本語教育向け | <https://github.com/HuangAntimony/Nihongo-Bunkei-Jiten> / Monokakido |
+| 日本語文法辞典（基本編）改訂第2版 / 日本語文法辞典（上級編） | 日本语学习文法书；基本編讲初级文法，上級編讲高级文法 | Monokakido / Shoui |
+| KANJI IN CONTEXT | 中上级日语学习者用汉字・词汇资料 | Monokakido |
 | Handbook of Japanese Grammar | Shoui 语法目录中可见 | Shoui |
 | どんなときどう使う 日本語表現文型辞典 | aiko-tanaka Grammar Dictionaries 中列出 | MarvNC / aiko-tanaka |
 | 毎日のんびり日本語教師 | 语法解释资料 | MarvNC / aiko-tanaka |
@@ -148,7 +150,7 @@
 
 | 词典 | 说明 | 获取 |
 |---|---|---|
-| NHK 日本語発音アクセント新辞典 / NHK 2016 | 物书堂官网说明为“現代の日本語の発音・アクセントを的確に捉えた必携版”；社区常推荐 NHK 2016 | Monokakido / MarvNC / Google Drive |
+| NHK 日本語発音アクセント新辞典 / NHK 2016 | 标准发音・アクセント辞典；社区常推荐 NHK 2016 | Monokakido / MarvNC / Google Drive |
 | アクセント辞典 v2 | NHK + 新明解混合数据 | MarvNC |
 | 大辞泉 第二版 / Daijisen Pitch | 大辞泉数据中的声调信息，可用独立 pitch dict 或集成版 | MarvNC |
 | 新明解 第七/八版 Pitch | 新明解声调数据 | MarvNC / Shoui |
@@ -195,8 +197,8 @@
 | JPDB Kanji | 常见词例、分解、汉检级别、旧字体/新字体等 | MarvNC |
 | TheKanjiMap | 部首、分解、包含关系、音符提示；MarvNC README 评价分解比 JPDB 更准确 | MarvNC |
 | Kanji Jitenon Online | 在线汉字资料转换 | MarvNC |
-| 全訳 漢辞海 第五版 | 物书堂官网说明为“高校生から中国研究者まで！の「小さな大漢和」！” | Monokakido |
-| 漢詩創作のための詩語集 | 物书堂官网说明为“漢詩を作りたい人、必携！　詩語集の決定版” | Monokakido |
+| 全訳 漢辞海 第五版 | 汉和辞典，面向高中生到中国研究者 | Monokakido |
+| 漢詩創作のための詩語集 | 汉诗创作用詩語集 | Monokakido |
 | TISMKANJI / TENKANJI | MarvNC / Shoui / uchagikun 库中可见的汉字资料 | MarvNC / Shoui / uchagikun |
 | 漢字林 / kanjiDictCOPE | Shoui / MarvNC Drive 中可见的汉字资料 | Shoui / MarvNC |
 | mozc Kanji Variants | 异体字、旧字体、俗字、正字等 | MarvNC |
@@ -221,9 +223,9 @@
 | Vogelsang's Dictionary | Classical East Asian Languages 社区转换，原稿遗漏 | MarvNC |
 | 中日大辞典 第二版 | ZH-JA | MarvNC |
 | 白水社 中国語辞典 | ZH-JA | MarvNC |
-| 小学館 中日・日中辞典（第3版） | 物书堂官网说明为“信頼の本格派中日・日中辞典の全面改訂版”；社区库也可见小学館中日辞典第3版 | Monokakido / MarvNC / Caoimhe |
-| 超級クラウン中日・クラウン日中辞典 | 物书堂官网说明为面向学习、商务的中上级中日/日中辞典 | Monokakido |
-| 中日英・日中英 投資・会計・税務用語辞典 | 物书堂官网说明为 KPMG/あずさ監査法人による中日英・日中英会计用语辞典 | Monokakido |
+| 小学館 中日・日中辞典（第3版） | 本格中日・日中辞典；社区库也可见小学館中日辞典第3版 | Monokakido / MarvNC / Caoimhe |
+| 超級クラウン中日・クラウン日中辞典 | 中上级中日・日中辞典，兼顾学习和商务 | Monokakido |
+| 中日英・日中英 投資・会計・税務用語辞典 | 投资、会计、税务三语术语辞典 | Monokakido |
 | 兩岸詞典 | ZH-ZH，两岸用语 | MarvNC |
 | 漢語大詞典 | ZH-ZH 大型汉语词典 | MarvNC |
 | MoeDict 萌典国语辞典 | ZH-ZH | MarvNC |
@@ -275,7 +277,7 @@
 | Conjugation Dictionary | 韩语活用词典 | MarvNC |
 | CC100 Korean | 韩语词频 | MarvNC / Kuuuube |
 | JP-KR / KR-JP | 社区从 FreeMdict 等来源转换 | FreeMdict / Discord |
-| 小学館 韓日・日韓辞典（改訂版） | 物书堂官网说明为“好評を博した『朝鮮語辞典』の改訂新版” | Monokakido |
+| 小学館 韓日・日韓辞典（改訂版） | 韩日・日韩辞典，《朝鮮語辞典》改订新版 | Monokakido |
 
 ---
 
@@ -287,8 +289,8 @@
 
 | 分类 | 词典 | 官网详情页说明 | 获取 |
 |---|---|---|---|
-| 国語 | 精選版 日本国語大辞典 / 大辞林４ / 大辞泉 | 大型国語、第四版大辞林、30万3千项级别大辞泉 | Monokakido Proton / 官网详情 |
-| 国語 | 旺文社国語辞典 第十二版 / 新選国語辞典 第十版 / 岩波 国語辞典 第八版 / 明鏡国語辞典 第三版 | 中学到社会人、百年の日本語、语感与语汇说明等国語用途 | Monokakido Proton / 官网详情 |
+| 国語 | 精選版 日本国語大辞典 / 大辞林４ / 大辞泉 | 精選版是大型国語；大辞林、大辞泉是中型国語 | Monokakido Proton / 官网详情 |
+| 国語 | 旺文社国語辞典 第十二版 / 新選国語辞典 第十版 / 岩波 国語辞典 第八版 / 明鏡国語辞典 第三版 | 小型国語；适合学习、现代语规范、用法和语感查询 | Monokakido Proton / 官网详情 |
 | 国語 | 三省堂 現代新国語辞典 第七版 / 新明解国語辞典 第八版 / 三省堂国語辞典 第八版 / 使える！ 用字用語辞典 第2版 | 高校教科书密着、畅销国語、时代语、媒体用字用语 | Monokakido Proton / 官网详情 |
 | アクセント | NHK 日本語発音アクセント新辞典 | 现代日语发音与声调资料 | Monokakido Proton / 官网详情 |
 | 類語・表現 | 角川類語新辞典 / 日本語シソーラス 類語検索辞典 / 品格語辞典 / 無礼語辞典 / 絶賛語辞典 / 研究社 日本語コロケーション辞典 | 近义词、言いかえ、褒贬表达、搭配关系 | Monokakido Proton / 官网详情 |
